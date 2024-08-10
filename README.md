@@ -23,12 +23,8 @@ In This Project, we are Developing and Deploying a video streaming application o
 Clone this Repository
 
 ```elixir
-git clone https://github.com/NotHarshhaa/DevOps-Projects.git
+git clone https://github.com/hyndavinandurii/CodePipeline-Project.git
 ```
-
-# **Project Architecture**
-
-![](https://miro.medium.com/v2/resize:fit:1431/1*9s2m5NLVfW-A3IbDRg3b1w.png)
 
 # **Setting Up CodeCommit**
 
